@@ -1,0 +1,87 @@
+{
+  "Nav": {
+    "home": "Home",
+    "products": "Products",
+    "contact": "Contact",
+    "menu": "Menu",
+    "language": "Language"
+  },
+  "Home": {
+    "heroImageAlt": "Fresh seafood and fish on ice at a market stall.",
+    "heroPhotoCredit": "Photo: Georg Eiermann / Unsplash",
+    "heroEyebrow": "Mauritania · pro-grade sourcing",
+    "heroTitle": "Fish and seafood — freshness kept in check from dock to kitchen",
+    "heroSubtitle": "ProService Fish curates stock and coordinates orders for households, restaurants, and food businesses. Live availability, pricing on request, and WhatsApp for a direct line.",
+    "ctaProducts": "Browse catalogue",
+    "ctaContact": "Get in touch",
+    "phoneLabel": "Phone",
+    "waLabel": "WhatsApp",
+    "feature1Title": "Cold chain",
+    "feature1Desc": "Receiving and storage with temperature-first handling to protect taste and texture.",
+    "feature2Title": "Traceability",
+    "feature2Desc": "Lot tracking and visible stock levels so you can plan purchases with confidence.",
+    "feature3Title": "Tailored logistics",
+    "feature3Desc": "Flexible volumes and timing — tell us what you need and we align on fulfilment.",
+    "catalogTitle": "Online catalogue",
+    "catalogSubtitle": "Open product pages and message us on WhatsApp with your request.",
+    "catalogPageLink": "Full catalogue view →",
+    "emptyCatalog": "Catalogue is loading. Try again later or message us on WhatsApp."
+  },
+  "Products": {
+    "metaTitle": "Products",
+    "metaDescription": "ProService Fish catalogue — availability and details. Pricing on request.",
+    "title": "Our catalogue",
+    "intro": "Browse our fish and seafood. Stock shown in real time — pricing on request via WhatsApp.",
+    "priceOnRequest": "Price on request",
+    "empty": "No products yet.",
+    "loadError": "Failed to load",
+    "card": {
+      "noImage": "No image",
+      "available": "In stock",
+      "out": "Out of stock",
+      "details": "Details"
+    }
+  },
+  "ProductDetail": {
+    "notFoundTitle": "Product not found",
+    "back": "← Back to catalogue",
+    "noImage": "No image",
+    "inStock": "In stock",
+    "outStock": "Out of stock",
+    "stock": "Stock: {count} unit(s)",
+    "waCta": "Order on WhatsApp",
+    "otherContact": "Other contacts",
+    "waText": "Hello Proservice_fish, I'm interested in: {name}. {priceLine}",
+    "waPriceShown": "Listed price: {amount} MRU.",
+    "waPriceOnRequest": "Price on request."
+  },
+  "Contact": {
+    "metaTitle": "Contact",
+    "metaDescription": "Contact ProService Fish — phone, email, WhatsApp.",
+    "title": "Contact",
+    "intro": "Proservice_fish — we reply quickly on WhatsApp.",
+    "name": "Name",
+    "phone": "Phone",
+    "email": "Email",
+    "whatsapp": "WhatsApp"
+  },
+  "Footer": {
+    "tagline": "Fresh fish, professional quality. Delivery and advice on request.",
+    "navTitle": "Navigation",
+    "contactTitle": "Quick contact",
+    "phoneLine": "Tel: 20 78 36 74 / 36 36 37 66"
+  },
+  "WhatsApp": {
+    "floatLabel": "WhatsApp",
+    "prefill": "Hello Proservice_fish, I would like to place an order."
+  },
+  "NotFound": {
+    "title": "Product not found",
+    "body": "This product does not exist or was removed.",
+    "cta": "View catalogue"
+  },
+  "Metadata": {
+    "siteDescription": "ProService Fish: fresh fish sales. Order online, WhatsApp contact. Professional quality.",
+    "ogDescription": "Fresh fish — ProService Fish"
+  }
+}

@@ -1,0 +1,18 @@
+# MongoDB local pour le développement (Docker Desktop requis sur Windows).
+# Démarrage : docker compose up -d
+# Arrêt     : docker compose down
+# Données   : volume Docker "mongo_data"
+
+services:
+  mongo:
+    image: mongo:7
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+    environment:
+      MONGO_INITDB_DATABASE: proservice_fish
+
+volumes:
+  mongo_data:

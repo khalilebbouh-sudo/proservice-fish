@@ -1,0 +1,87 @@
+{
+  "Nav": {
+    "home": "Accueil",
+    "products": "Produits",
+    "contact": "Contact",
+    "menu": "Menu",
+    "language": "Langue"
+  },
+  "Home": {
+    "heroImageAlt": "Fruits de mer et poissons frais présentés sur glace sur un étal de marché.",
+    "heroPhotoCredit": "Photo : Georg Eiermann / Unsplash",
+    "heroEyebrow": "Mauritanie · qualité pro",
+    "heroTitle": "Poissons et fruits de mer — fraîcheur pilotée jusqu’à votre cuisine",
+    "heroSubtitle": "ProService Fish sélectionne, stocke et coordonne les commandes pour les particuliers, la restauration et les métiers de bouche. Disponibilités suivies, prix sur demande, prise de contact directe par WhatsApp.",
+    "ctaProducts": "Voir le catalogue",
+    "ctaContact": "Nous contacter",
+    "phoneLabel": "Téléphone",
+    "waLabel": "WhatsApp",
+    "feature1Title": "Chaîne du froid",
+    "feature1Desc": "Réception et entreposage avec priorité à la température : une qualité organoleptique préservée.",
+    "feature2Title": "Traçabilité",
+    "feature2Desc": "Suivi des lots et du stock affiché : transparence pour planifier vos achats en confiance.",
+    "feature3Title": "Logistique sur mesure",
+    "feature3Desc": "Volumes variables, créneaux et expéditions : parlons de vos besoins pour une organisation claire.",
+    "catalogTitle": "Catalogue en ligne",
+    "catalogSubtitle": "Parcourez les fiches produit et commandez en précisant votre demande sur WhatsApp.",
+    "catalogPageLink": "Vue catalogue complète →",
+    "emptyCatalog": "Catalogue en cours de chargement. Réessayez plus tard ou écrivez-nous sur WhatsApp."
+  },
+  "Products": {
+    "metaTitle": "Produits",
+    "metaDescription": "Catalogue ProService Fish — disponibilité et détails. Tarifs sur demande.",
+    "title": "Notre catalogue",
+    "intro": "Parcourez nos poissons et fruits de mer. Stock affiché en temps réel — tarifs sur demande via WhatsApp.",
+    "priceOnRequest": "Prix sur demande",
+    "empty": "Aucun produit pour le moment.",
+    "loadError": "Erreur de chargement",
+    "card": {
+      "noImage": "Sans image",
+      "available": "Disponible",
+      "out": "Rupture",
+      "details": "Détails"
+    }
+  },
+  "ProductDetail": {
+    "notFoundTitle": "Produit introuvable",
+    "back": "← Retour au catalogue",
+    "noImage": "Sans image",
+    "inStock": "En stock",
+    "outStock": "Rupture de stock",
+    "stock": "Stock: {count} unité(s)",
+    "waCta": "Commander sur WhatsApp",
+    "otherContact": "Autres contacts",
+    "waText": "Bonjour Proservice_fish, je suis intéressé par: {name}. {priceLine}",
+    "waPriceShown": "Prix indiqué : {amount} MRU.",
+    "waPriceOnRequest": "Prix sur demande."
+  },
+  "Contact": {
+    "metaTitle": "Contact",
+    "metaDescription": "Contact ProService Fish — téléphone, email, WhatsApp.",
+    "title": "Contact",
+    "intro": "Proservice_fish — nous répondons rapidement sur WhatsApp.",
+    "name": "Nom",
+    "phone": "Téléphone",
+    "email": "Email",
+    "whatsapp": "WhatsApp"
+  },
+  "Footer": {
+    "tagline": "Poisson frais, qualité professionnelle. Livraison et conseil sur demande.",
+    "navTitle": "Navigation",
+    "contactTitle": "Contact rapide",
+    "phoneLine": "Tél: 20 78 36 74 / 36 36 37 66"
+  },
+  "WhatsApp": {
+    "floatLabel": "WhatsApp",
+    "prefill": "Bonjour Proservice_fish, je souhaite passer commande."
+  },
+  "NotFound": {
+    "title": "Produit introuvable",
+    "body": "Ce produit n'existe pas ou a été retiré.",
+    "cta": "Voir le catalogue"
+  },
+  "Metadata": {
+    "siteDescription": "ProService Fish: vente de poisson frais. Commandez en ligne, contact WhatsApp. Qualité professionnelle.",
+    "ogDescription": "Poisson frais — ProService Fish"
+  }
+}

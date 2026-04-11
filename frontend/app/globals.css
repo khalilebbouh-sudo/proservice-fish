@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --wave-1: rgba(45, 143, 165, 0.08);
+  --wave-2: rgba(13, 71, 86, 0.06);
+}
+
+body {
+  @apply bg-slate-50 text-slate-800 antialiased;
+  min-height: 100vh;
+}
+
+.glass {
+  @apply rounded-2xl border border-slate-200/80 bg-white/90 shadow-md backdrop-blur-sm;
+}
+
+.glass-dark {
+  @apply bg-white/5 backdrop-blur-md border border-cream/10 shadow-xl;
+}
+
+.text-gradient {
+  @apply bg-gradient-to-r from-brand-500 via-brand-400 to-teal-500 bg-clip-text text-transparent;
+}

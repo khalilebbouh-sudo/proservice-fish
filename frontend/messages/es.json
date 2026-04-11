@@ -1,0 +1,87 @@
+{
+  "Nav": {
+    "home": "Inicio",
+    "products": "Productos",
+    "contact": "Contacto",
+    "menu": "Menú",
+    "language": "Idioma"
+  },
+  "Home": {
+    "heroImageAlt": "Mariscos y pescado fresco sobre hielo en un puesto de mercado.",
+    "heroPhotoCredit": "Foto: Georg Eiermann / Unsplash",
+    "heroEyebrow": "Mauritania · calidad profesional",
+    "heroTitle": "Pescado y mariscos — frescura cuidada desde el origen hasta tu cocina",
+    "heroSubtitle": "ProService Fish selecciona, almacena y coordina pedidos para hogares, hostelería y comercio. Disponibilidad seguida, precio bajo consulta y WhatsApp para hablar directamente.",
+    "ctaProducts": "Ver catálogo",
+    "ctaContact": "Contactar",
+    "phoneLabel": "Teléfono",
+    "waLabel": "WhatsApp",
+    "feature1Title": "Cadena de frío",
+    "feature1Desc": "Recepción y almacenamiento con prioridad térmica para conservar aroma y textura.",
+    "feature2Title": "Trazabilidad",
+    "feature2Desc": "Seguimiento de lotes y stock visible: transparencia para planificar tus compras.",
+    "feature3Title": "Logística a medida",
+    "feature3Desc": "Volúmenes y horarios flexibles: expliquemos tu necesidad y organicemos la entrega.",
+    "catalogTitle": "Catálogo en línea",
+    "catalogSubtitle": "Consulta las fichas y pide por WhatsApp con el detalle de tu pedido.",
+    "catalogPageLink": "Vista catálogo completa →",
+    "emptyCatalog": "El catálogo se está cargando. Vuelve a intentar o escríbenos por WhatsApp."
+  },
+  "Products": {
+    "metaTitle": "Productos",
+    "metaDescription": "Catálogo ProService Fish — disponibilidad y detalles. Precio bajo consulta.",
+    "title": "Nuestro catálogo",
+    "intro": "Explora nuestro pescado y mariscos. Stock en tiempo real — precio bajo consulta por WhatsApp.",
+    "priceOnRequest": "Precio bajo consulta",
+    "empty": "Aún no hay productos.",
+    "loadError": "Error al cargar",
+    "card": {
+      "noImage": "Sin imagen",
+      "available": "Disponible",
+      "out": "Agotado",
+      "details": "Detalles"
+    }
+  },
+  "ProductDetail": {
+    "notFoundTitle": "Producto no encontrado",
+    "back": "← Volver al catálogo",
+    "noImage": "Sin imagen",
+    "inStock": "En stock",
+    "outStock": "Sin stock",
+    "stock": "Stock: {count} unidad(es)",
+    "waCta": "Pedir por WhatsApp",
+    "otherContact": "Otros contactos",
+    "waText": "Hola Proservice_fish, me interesa: {name}. {priceLine}",
+    "waPriceShown": "Precio indicado: {amount} MRU.",
+    "waPriceOnRequest": "Precio bajo consulta."
+  },
+  "Contact": {
+    "metaTitle": "Contacto",
+    "metaDescription": "Contacto ProService Fish — teléfono, email, WhatsApp.",
+    "title": "Contacto",
+    "intro": "Proservice_fish — respondemos rápido por WhatsApp.",
+    "name": "Nombre",
+    "phone": "Teléfono",
+    "email": "Email",
+    "whatsapp": "WhatsApp"
+  },
+  "Footer": {
+    "tagline": "Pescado fresco, calidad profesional. Entrega y asesoramiento bajo demanda.",
+    "navTitle": "Navegación",
+    "contactTitle": "Contacto rápido",
+    "phoneLine": "Tel.: 20 78 36 74 / 36 36 37 66"
+  },
+  "WhatsApp": {
+    "floatLabel": "WhatsApp",
+    "prefill": "Hola Proservice_fish, quiero hacer un pedido."
+  },
+  "NotFound": {
+    "title": "Producto no encontrado",
+    "body": "Este producto no existe o fue retirado.",
+    "cta": "Ver catálogo"
+  },
+  "Metadata": {
+    "siteDescription": "ProService Fish: venta de pescado fresco. Pide en línea, contacto WhatsApp. Calidad profesional.",
+    "ogDescription": "Pescado fresco — ProService Fish"
+  }
+}
