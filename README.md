@@ -7,6 +7,29 @@ Application web complète (catalogue public + tableau de bord admin sécurisé) 
 - `frontend/` — Next.js 14 (App Router), Tailwind CSS, responsive.
 - `backend/` — API REST Express, MongoDB (Mongoose), JWT (cookie httpOnly), Multer (uploads locaux).
 
+## GitHub
+
+Le dépôt Git est initialisé en local (`main`, `.env` ignorés). Pour **pousser** vers votre compte :
+
+1. Créez un dépôt **vide** sur [github.com/new](https://github.com/new) (sans README imposé).
+2. Dans un terminal, à la racine du projet :
+
+```bash
+git remote add origin https://github.com/VOTRE_USER/VOTRE_REPO.git
+git push -u origin main
+```
+
+Si `origin` existe déjà : `git remote set-url origin https://github.com/...` puis `git push -u origin main`.
+
+**Windows (PowerShell)** — script qui configure `origin` et pousse :
+
+```powershell
+cd chemin\vers\proservice
+powershell -ExecutionPolicy Bypass -File .\scripts\push-to-github.ps1 -RemoteUrl "https://github.com/VOTRE_USER/VOTRE_REPO.git"
+```
+
+Authentification : GitHub exige souvent un **Personal Access Token** (classique HTTPS) ou une clé **SSH** à la place du mot de passe.
+
 ## Prérequis
 
 - Node.js **18+**
