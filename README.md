@@ -28,6 +28,16 @@ cd chemin\vers\proservice
 powershell -ExecutionPolicy Bypass -File .\scripts\push-to-github.ps1 -RemoteUrl "https://github.com/VOTRE_USER/VOTRE_REPO.git"
 ```
 
+**Tout automatiser** (créer le dépôt vide sur GitHub + `push`) si vous avez un **PAT** (`repo`) :
+
+```powershell
+cd chemin\vers\proservice
+$env:GITHUB_TOKEN = "ghp_xxxxxxxx"   # ne partagez jamais ce jeton
+powershell -ExecutionPolicy Bypass -File .\scripts\create-and-push-github.ps1 -Owner "VOTRE_USER" -RepoName "proservice-fish"
+```
+
+`-PublicRepo` rend le dépôt public (par défaut : privé).
+
 Authentification : GitHub exige souvent un **Personal Access Token** (classique HTTPS) ou une clé **SSH** à la place du mot de passe.
 
 ## Prérequis
